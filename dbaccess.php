@@ -41,6 +41,6 @@ Last Access Time<br><br>
 <?php foreach ($rec as $a):?>
         <?=escape1($a)?><br>
 <?php endforeach; ?>
-Add comment by Mamoru Ito
+Add comment by Jiaying Dai
 </body>
 </html>
